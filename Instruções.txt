@@ -1,0 +1,9 @@
+Instruções de uso do programa Voz eletrônica
+
+OBS: Caso você não tenha instalado a biblioteca pyttsx3, abra o Processador de comandos (CMD) e digite o seguinte comando:
+pip install pyttsx3
+
+1- Abra o programa "Voz eletrônica.py" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- Digite o que você deseja que o programa leia e aperte ENTER.
